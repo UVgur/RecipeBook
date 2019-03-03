@@ -4,6 +4,7 @@
 # -- useing Angular Universal
 # -- useing Angular PWA (services worker)
 # -- Deploy via AWS-S3
+# -- DB via Firebase
 
 
 
