@@ -1,9 +1,9 @@
 
--- useing NgRx6+
--- useing Angular Animations
--- useing Angular Universal
--- useing Angular PWA (services worker)
--- Deploy via AWS-S3
+# -- useing NgRx6+
+# -- useing Angular Animations
+# -- useing Angular Universal
+# -- useing Angular PWA (services worker)
+# -- Deploy via AWS-S3
 
 
 
