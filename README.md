@@ -1,9 +1,9 @@
 
-# -- useing NgRx6+
-# -- useing Angular Animations
-# -- useing Angular Universal(services worker)
-# -- Deploy via AWS-S3
-# -- DB via Firebase
+## -- useing NgRx6+
+## -- useing Angular Animations
+## -- useing Angular Universal(services worker)
+#### -- Deploy via AWS-S3
+### -- DB via Firebase
 
 
 
